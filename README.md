@@ -1,22 +1,51 @@
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericostco&layout=compact&theme=dark)
+# 👋 Hi, I'm Ericostco  
 
-### 📊 GitHub Stats
-![Ericostco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericostco&show_icons=true&theme=dark)
+🎓 CS Graduate from National Chiayi University  
+💡 Interested in Software Engineering, Machine Learning, and Stock Market Analysis  
+📚 Currently preparing for Graduate School (OMSCS @ Georgia Tech)  
+🌱 Exploring: Full-stack development, Data Science, and System Programming  
 
+---
 
+## 🔧 Skills & Tools
+- **Languages:** C++, Python, C, JavaScript  
+- **Frameworks & Libraries:** Flask, React, PyTorch, NumPy  
+- **Developer Tools:** Git, Docker, Linux, VS Code  
+- **Other Interests:** Algorithm design, Financial data analysis, Automation  
 
-<!--
-**Ericostco/Ericostco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Ericostco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericostco&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericostco&layout=compact&theme=radical)
+
+---
+
+## 📋 Profile Summary Cards
+<!-- 這些圖片來自 github-profile-summary-cards -->
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericostco&theme=radical)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ericostco&theme=radical)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ericostco&theme=radical)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericostco&theme=radical)
+
+---
+
+## 🏆 Highlights
+- ⭐ 14+ Stars earned across repositories  
+- 📌 Worked on C++, Python, and Data-driven projects  
+- 🔭 Building tools for automation & research  
+- ✨ Exploring AI models (e.g. transcription & auto-charting)  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/) *(add your profile)*  
+- [Blog/Portfolio](https://Ericostco.github.io) *(optional GitHub Pages site)*  
+- Email: *(your contact email if方便)*  
+
+---
+🚀 *Always open to collaborations and research opportunities!*
