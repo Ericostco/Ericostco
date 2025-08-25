@@ -1,4 +1,8 @@
-## Hi there 👋
+### 📊 GitHub Stats
+![Ericostco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericostco&show_icons=true&theme=dark)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericostco&layout=compact&theme=dark)
 
 <!--
 **Ericostco/Ericostco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
