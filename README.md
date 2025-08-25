@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ericostco  
 
 🎓 CS Graduate from National Chiayi University  
-💡 Interested in Software Engineering, Machine Learning, and Stock Market Analysis  
-📚 Currently preparing for Graduate School (OMSCS @ Georgia Tech)  
+💡 Interested in Software Engineering, Machine Learning
+<!--📚 Currently preparing for Graduate School (OMSCS @ Georgia Tech)-->
 🌱 Exploring: Full-stack development, Data Science, and System Programming  
 
 ---
@@ -43,9 +43,9 @@
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/) *(add your profile)*  
-- [Blog/Portfolio](https://Ericostco.github.io) *(optional GitHub Pages site)*  
-- Email: *(your contact email if方便)*  
+- [LinkedIn](https://www.linkedin.com/in/bo-guei-chen/) 
+- [Blog/Portfolio](https://Ericostco.github.io) 
+- Email: bgchenforoffice@gmail.com
 
 ---
 🚀 *Always open to collaborations and research opportunities!*
